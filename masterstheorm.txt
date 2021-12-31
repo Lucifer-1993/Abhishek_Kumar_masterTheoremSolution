@@ -1,0 +1,12 @@
+Masters Theorm:
+
+a) T (n) = 3T (n/2) + n      ;  Ans Θ(n^1.58)
+
+b) T (n) = 64T (n/8) − n^2(log n)     ;Ans Θ(n^2log(1/n))
+
+c) T (n) = 2nT (n/2) + n^n      ; Ans A is not a constant so cant find.
+
+d) T (n) = 3T (n/3) + n/2       ; Ans Θ(n log n)
+
+e) T (n) = 7T (n/3) + n^2    ; Ans Ans Θ(n ^1.77124)
+
